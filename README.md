@@ -1,0 +1,1 @@
+# cmcc-power-strip-ha
