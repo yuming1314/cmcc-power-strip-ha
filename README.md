@@ -47,6 +47,7 @@
 先看刷完后的效果，WEB管理界面跟罗总的esp_dc1风格一致，功能也是一脉相承：
 
        1. WEB首页 - 设备状态总览  
+<img width="639" height="964" alt="image" src="https://github.com/user-attachments/assets/d77763c6-fe0f-4596-b67e-379ab0f17b9f" />
 
 可以看到设备主机名`cmcc_XXXXXX`，WiFi信号强度-66dBm，运行状态一目了然。
 
